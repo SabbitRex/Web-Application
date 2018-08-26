@@ -1,0 +1,85 @@
+*
+{
+    /*font-family: 'Raleway', sans-serif;*/
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+body
+{
+    background-image: url(mautic_developer_mautician.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a
+{
+    font-weight: bold;
+}
+.navbar
+{
+    margin: 0px;
+    border: none;
+    border-radius: 0px;
+}
+
+main
+{
+    background-color: rgba(255,255,255,.5);
+}
+
+.form-control, .btn
+{
+    font-size: 20px;
+    padding: 10px;
+    height: auto;
+}
+
+.modal-header,.modal-footer,.modal-body
+{
+    border:none;
+}
+
+.card
+    {
+        height: 400px;
+        background-color: cadetblue;
+        box-shadow: 0px 3px 5px #555;
+        background-image: url(../CSS/mautic_developer_mautician.jpg);
+    }
+.navmenu
+{
+    width:100%;
+    margin:10px;
+}
+.navmenu-nav li a
+{
+    font-size: 14px;
+}
+   
+.score-card
+{
+    display: inline-block;
+    width: 150px;
+    margin: 20px;
+}
+
+.score-card .panel-body
+{
+    font-size: 3em;
+}
+
+#captcha
+{
+    letter-spacing: 10px;
+    user-select:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+}
+
+.input-group-addon
+{
+    min-width:75px;
+}
