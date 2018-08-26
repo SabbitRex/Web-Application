@@ -3,7 +3,7 @@
         <div class="navbar-header">
             <span class="navbar-brand">
                 <address>
-                    &copy; <?= date("Y")?> Dessigned &amp; Developed By : <a href="">SummerBatch</a>
+                    &copy; <?= date("Y")?> Designed &amp; Developed By : <a href="">Sharad Dutta</a>
                 </address>
             </span>
         </div>
